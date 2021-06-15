@@ -1,4 +1,4 @@
-# Publishing
+## Publishing
 
 1. Publishing report [publishing_report.py](https://github.com/psrozek/publishing/blob/main/publishing_report.py)
 * program for an automatic filling of the publishing report - Excel file 
